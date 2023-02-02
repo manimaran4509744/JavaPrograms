@@ -18,7 +18,7 @@ public class Factorial {
 //			factorial = factorial*i;
 //		}
 //		System.out.println(factorial);
-//Third Approach
+                //Third Approach
 		int i = 1;
 		while (i <= number) {
 			factorial = factorial * i;
